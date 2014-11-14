@@ -1,7 +1,7 @@
 Microscope
 ===========
 
-This project covers very basic but mandatory features of Meteor framework. So of its basic features are as following 
+This project covers very basic but groundbreaking features of Meteor framework. So of its basic features are as following 
   - Template and layout 
   - Helpers and Event handler 
   - User authentication 
